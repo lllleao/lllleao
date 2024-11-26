@@ -15,8 +15,8 @@
 </div>
 
 ### Projetos Recentes
-- [Lista de Tarefas](https://lista-tarefas-ebac.vercel.app/)
-- [Landing Page Amélie Poulain](https://landing-page-amelie.vercel.app/)
-- [Landing Page Cinefilia](https://vercel.com/lllleaos-projects/site-cinefilia-kstt)
-- [Calculadora](https://calculadora-flame-phi.vercel.app/)
 - [Agenda de Contatos](https://contatos-weld.vercel.app/)
+- [Eplay](https://eplay-three-virid.vercel.app/)
+- [Landing Page Cinefilia](https://vercel.com/lllleaos-projects/site-cinefilia-kstt)
+- [Cidade Eclipse](https://cidadeclipse.com)
+- [Lazy Fox Design](https://lazy-fox.vercel.app/)
