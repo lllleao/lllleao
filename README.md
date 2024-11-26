@@ -17,6 +17,6 @@
 ### Projetos Recentes
 - [Agenda de Contatos](https://contatos-weld.vercel.app/)
 - [Eplay](https://eplay-three-virid.vercel.app/)
-- [Landing Page Cinefilia](https://vercel.com/lllleaos-projects/site-cinefilia-kstt)
+- [Landing Page Cinefilia](https://site-cinefilia.vercel.app/)
 - [Cidade Eclipse](https://cidadeclipse.com)
 - [Lazy Fox Design](https://lazy-fox.vercel.app/)
