@@ -17,18 +17,18 @@
 ### Projetos Recentes
 <ul>
   <li>
-    <a href="https://contatos-weld.vercel.app/" target"_blank">Agenda de Contatos</a>
+    <a href="https://contatos-weld.vercel.app/" target="_blank">Agenda de Contatos</a>
   </li>
   <li>
-    <a href="https://eplay-three-virid.vercel.app/" target"_blank">Eplay</a>
+    <a href="https://eplay-three-virid.vercel.app/" target="_blank">Eplay</a>
   </li>
   <li>
-    <a href="https://site-cinefilia.vercel.app/)" target"_blank">Landing Page Cinefilia</a>
+    <a href="https://site-cinefilia.vercel.app/)" target="_blank">Landing Page Cinefilia</a>
   </li>
   <li>
-    <a href="https://cidadeclipse.com" target"_blank">Cidade Eclipse</a>
+    <a href="https://cidadeclipse.com" target="_blank">Cidade Eclipse</a>
   </li>
   <li>
-    <a href="https://lazy-fox.vercel.app/" target"_blank">Lazy Fox Design</a>
+    <a href="https://lazy-fox.vercel.app/" target="_blank">Lazy Fox Design</a>
   </li>
 </ul>
