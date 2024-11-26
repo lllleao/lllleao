@@ -23,7 +23,7 @@
     <a href="https://eplay-three-virid.vercel.app/" target="_blank">Eplay</a>
   </li>
   <li>
-    <a href="https://site-cinefilia.vercel.app/)" target="_blank">Landing Page Cinefilia</a>
+    <a href="https://site-cinefilia.vercel.app/" target="_blank">Landing Page Cinefilia</a>
   </li>
   <li>
     <a href="https://cidadeclipse.com" target="_blank">Cidade Eclipse</a>
