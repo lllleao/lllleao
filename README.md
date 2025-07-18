@@ -27,7 +27,7 @@ Tenho forte senso crítico, que vem da minha formação em filosofia, e uma enor
 ### Projetos Recentes Full Stack
 <ul>
   <li>
-    <a href="https://frontend-ebac-one.vercel.app/" target="_blank">Rede Social Fake</a>
+    <a href="https://fake-social-network.vercel.app/" target="_blank">Rede Social Fake</a>
   </li>
   <li>
     <a href="https://www.cidadeclipse.com" target="_blank">Cidade Eclipse</a>
