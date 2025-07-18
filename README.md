@@ -17,21 +17,29 @@ Tenho forte senso crítico, que vem da minha formação em filosofia, e uma enor
     <img height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
     <img height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" />
     <img height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
+    <img height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" />
+    <img height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
+    <img height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
+    <img height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
 </div>
 
-### Projetos Recentes
+### Projetos Recentes Full Stack
 <ul>
   <li>
-    <a href="https://contatos-weld.vercel.app/" target="_blank">Agenda de Contatos</a>
+    <a href="https://frontend-ebac-one.vercel.app/" target="_blank">Rede Social Fake</a>
   </li>
+  <li>
+    <a href="https://www.cidadeclipse.com" target="_blank">Cidade Eclipse</a>
+  </li>
+</ul>
+
+### Projetos Recentes Front End
+<ul>
   <li>
     <a href="https://eplay-three-virid.vercel.app/" target="_blank">Eplay</a>
   </li>
   <li>
     <a href="https://site-cinefilia.vercel.app/" target="_blank">Landing Page Cinefilia</a>
-  </li>
-  <li>
-    <a href="https://cidadeclipse.com" target="_blank">Cidade Eclipse</a>
   </li>
   <li>
     <a href="https://lazy-fox.vercel.app/" target="_blank">Lazy Fox Design</a>
