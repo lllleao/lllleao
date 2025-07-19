@@ -43,6 +43,9 @@ Tenho forte senso crítico, que vem da minha formação em filosofia, e uma enor
     <a href="https://site-cinefilia.vercel.app/" target="_blank">Landing Page Cinefilia</a>
   </li>
   <li>
+    <a href="https://efood-umber-kappa.vercel.app/" target="_blank">EFood</a>
+  </li>
+  <li>
     <a href="https://lazy-fox.vercel.app/" target="_blank">Lazy Fox Design</a>
   </li>
 </ul>
