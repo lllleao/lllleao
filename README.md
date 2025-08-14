@@ -37,6 +37,9 @@ Tenho forte senso crítico, que vem da minha formação em filosofia, e uma enor
 ### Projetos Recentes Front End
 <ul>
   <li>
+    <a href="https://leaodev.vercel.app/" target="_blank">Portifólio</a>
+  </li>
+  <li>
     <a href="https://eplay-three-virid.vercel.app/" target="_blank">Eplay</a>
   </li>
   <li>
