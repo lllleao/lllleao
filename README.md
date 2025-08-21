@@ -27,10 +27,10 @@ Tenho forte senso crítico, que vem da minha formação em filosofia, e uma enor
 ### Projetos Recentes Full Stack
 <ul>
   <li>
-    <a href="https://fake-social-network.vercel.app/" target="_blank">Rede Social Fake</a>
+    <a href="https://cidadeclipse.com" target="_blank">Cidade Eclipse</a>
   </li>
   <li>
-    <a href="https://www.cidadeclipse.com" target="_blank">Cidade Eclipse</a>
+    <a href="https://fake-social-network.vercel.app/" target="_blank">Rede Social Fake</a>
   </li>
 </ul>
 
@@ -38,6 +38,9 @@ Tenho forte senso crítico, que vem da minha formação em filosofia, e uma enor
 <ul>
   <li>
     <a href="https://leaodev.vercel.app/" target="_blank">Portfólio</a>
+  </li>
+  <li>
+    <a href="https://neoapp-one.vercel.app/" target="_blank">Marvel SPA</a>
   </li>
   <li>
     <a href="https://eplay-three-virid.vercel.app/" target="_blank">Eplay</a>
